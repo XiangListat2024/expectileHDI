@@ -40,8 +40,8 @@ REAL DATA STUDIES
 
 2. Gene data
 
-# Gene data used in this part is sourced from Fan et al. 2017, where the raw data has been organized into "x_real.csv" and "y_real.csv".
-# For more details, refer to https://doi.org/10.1111/rssb.12166
+* Gene data used in this part is sourced from Fan et al. 2017, where the raw data has been organized into "x_real.csv" and "y_real.csv".
+  For more details, refer to https://doi.org/10.1111/rssb.12166
 
-# The file 'main_gene.m' provides the Matlab code for running our method with the aforementioned gene data.
+* The file 'main_gene.m' provides the Matlab code for running our method with the aforementioned gene data.
 
